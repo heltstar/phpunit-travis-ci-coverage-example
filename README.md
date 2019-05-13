@@ -2,7 +2,7 @@
 
 > An example repo to get started with phpUnit on a CI server
 
-[![Build Status](https://travis-ci.org/heltstar/phpunit-travis-ci-coverage-example.svg?branch=master)](https://travis-ci.org/heltstar/phpunit-travis-ci-coverage-example)
+[![Build](https://travis-ci.org/heltstar/phpunit-travis-ci-coverage-example.svg?branch=master)](https://travis-ci.org/heltstar/phpunit-travis-ci-coverage-example)
 [![Coverage](https://codecov.io/gh/ankurk91/phpunit-travis-ci-coverage-example/branch/master/graph/badge.svg)](https://codecov.io/gh/ankurk91/phpunit-travis-ci-coverage-example)
 
 ## Prerequisites
